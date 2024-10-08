@@ -27,3 +27,6 @@ plt.title('Porcentaje de ventas por plataforma (Global)', fontsize=16)
 
 # Mostrar el gráfico
 plt.show()
+
+# Enlace al dataset utilizado
+# https://www.kaggle.com/datasets/gregorut/videogamesales
