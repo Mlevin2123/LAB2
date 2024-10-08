@@ -14,7 +14,7 @@ df_filtered = df_clean[df_clean['release_year'] >= 2013]
 titles_per_year = df_filtered.groupby(['release_year', 'type']).size().unstack(fill_value=0)
 
 # Configura el tamaño del gráfico
-plt.figure(figsize=(10, 6))
+plt.figure(figsize=(12, 8))
 
 # Crear el gráfico de barras apiladas
 titles_per_year.plot(kind='bar', stacked=True, color=['#FF9999', '#66B2FF'], width=0.7)

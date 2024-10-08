@@ -16,7 +16,7 @@ countries = ['China', 'India', 'USA']
 df_filtered = df[df['Country'].isin(countries)]
 
 # Crear el gráfico de línea
-plt.figure(figsize=(10,6))
+plt.figure(figsize=(12,8))
 
 for country in countries:
     country_data = df_filtered[df_filtered['Country'] == country]
