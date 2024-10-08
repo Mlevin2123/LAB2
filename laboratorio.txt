@@ -1,17 +1,32 @@
 GRAFICO DE BARRAS
 DATASETS: Netflix Movies and TV Shows
 Análisis:
-El gráfico sugiere que Netflix ha expandido significativamente su catálogo de contenido en los últimos 10 años, con un enfoque particular en las series de TV, lo que coincide con la popularización del formato de consumo de entretenimiento a largo plazo. El aumento en la cantidad de títulos lanzados refleja tanto la creciente demanda de contenido por parte de la audiencia global, como la estrategia de expansión internacional de la plataforma para atraer a nuevos suscriptores con contenido diverso y exclusivo.
+El gráfico sugiere que Netflix ha expandido significativamente su 
+catálogo de contenido en los últimos 10 años, con un enfoque particular
+en las series de TV, lo que coincide con la popularización del formato 
+de consumo de entretenimiento a largo plazo. El aumento en la cantidad de 
+títulos lanzados refleja tanto la creciente demanda de contenido por 
+parte de la audiencia global, como la estrategia de expansión internacional 
+de la plataforma para atraer a nuevos suscriptores con contenido diverso y exclusivo.
 
 
 
 GRAFICO DE LINEAS
 DATASETS: World Population by Countries 2020.
 Análisis: 
-El gráfico revela que tanto China como India han experimentado un crecimiento poblacional masivo, con India muy cerca de alcanzar a China como el país más poblado del mundo. En contraste, Estados Unidos ha crecido de manera más moderada. Esta tendencia sugiere que las regiones más pobladas del mundo seguirán siendo Asia y América del Norte, pero con una posible convergencia en la población de China e India en las próximas décadas.
+El gráfico revela que tanto China como India han experimentado un crecimiento 
+poblacional masivo, con India muy cerca de alcanzar a China como el país más poblado 
+del mundo. En contraste, Estados Unidos ha crecido de manera más moderada. 
+Esta tendencia sugiere que las regiones más pobladas del mundo seguirán siendo Asia 
+y América del Norte, pero con una posible convergencia en la población de China 
+e India en las próximas décadas.
 
 
 GRAFICO CIRCULAR
 Dataset: Video Games Sales
 
-Análisis: El gráfico circular revela que las plataformas Xbox 360 (X360) y Wii dominan las ventas globales de videojuegos en comparación con otras plataformas. Estas dos consolas representan una porción significativa del total de ventas globales, lo que destaca su éxito en la industria durante sus respectivas generaciones.
+Análisis: 
+El gráfico circular revela que las plataformas Xbox 360 (X360) y Wii dominan las ventas 
+globales de videojuegos en comparación con otras plataformas. Estas dos consolas representan 
+una porción significativa del total de ventas globales, lo que destaca su éxito en la 
+industria durante sus respectivas generaciones.
