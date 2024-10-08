@@ -28,3 +28,5 @@ plt.legend(title='Tipo', labels=['Película', 'Serie de TV'], fontsize=12)
 plt.tight_layout()
 # Mostrar el gráfico
 plt.show()
+
+# Link del dataset: https://www.kaggle.com/datasets/shivamb/netflix-shows
