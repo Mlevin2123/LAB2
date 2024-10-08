@@ -9,3 +9,9 @@ GRAFICO DE LINEAS
 DATASETS: World Population by Countries 2020.
 Análisis: 
 El gráfico revela que tanto China como India han experimentado un crecimiento poblacional masivo, con India muy cerca de alcanzar a China como el país más poblado del mundo. En contraste, Estados Unidos ha crecido de manera más moderada. Esta tendencia sugiere que las regiones más pobladas del mundo seguirán siendo Asia y América del Norte, pero con una posible convergencia en la población de China e India en las próximas décadas.
+
+
+GRAFICO CIRCULAR
+Dataset: Video Games Sales
+
+Análisis: El gráfico circular revela que las plataformas Xbox 360 (X360) y Wii dominan las ventas globales de videojuegos en comparación con otras plataformas. Estas dos consolas representan una porción significativa del total de ventas globales, lo que destaca su éxito en la industria durante sus respectivas generaciones.
